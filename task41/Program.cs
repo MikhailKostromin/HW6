@@ -17,13 +17,3 @@ for (int i = 0; i < array.Length; i++)
     
 }
 Console.WriteLine ($" Чисел больше 0 = [{count}]");
-// void PrintArray (int[] array) //Красиво печатаем массив
-// {
-// Console.Write("[");                     
-// for (int i = 0; i < N - 1; ++i)
-// {
-//     Console.Write(array[i] + ", ");
-// }
-// Console.WriteLine(array[N - 1] + "]");
-// }
-// PrintArray(array);
